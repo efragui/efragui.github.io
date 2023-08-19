@@ -1791,11 +1791,11 @@ input, select, textarea {
 	}
 
 		#banner h2 {
-			border: solid 1px rgb(0, 0, 0);
+			border: solid 1px #000000;
 			border-left: 0;
 			border-right: 0;
 			color: #000000;
-			color: rgb(0, 0, 0);
+			color: rgb(245, 245, 245);
 			font-size: 2.35em;
 			font-weight: 700;
 			line-height: 1.3em;
@@ -1827,8 +1827,8 @@ input, select, textarea {
 
 		#banner p {
 			text-transform: uppercase;
-			color: #000000;
-			color: rgb(0, 0, 0);
+			color: #f7f7f7;
+			color: rgba(255, 255, 255, 0.863);
 			font-size: 1.5em;
 			font-weight: 700;
 			line-height: 1.3em;
